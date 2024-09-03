@@ -1,0 +1,12 @@
+{
+  "grading": "isolated",
+  "difficulty": "intermediate",
+  "duration": 2,
+  "description": {
+    "us": ""
+  },
+  "title": {
+    "us": "owasp-top10-broken-access-control"
+  },
+  "slug": "owasp-top10-broken-access-control"
+}
