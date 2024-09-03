@@ -1,12 +1,12 @@
 # OWASP top 10 - Broken Access Control
 
-> By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/breatheco-de/owasp-top10-injection/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
+> By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/breatheco-de/owasp-top10-broken-access-control/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
-![last commit](https://img.shields.io/github/last-commit/owasp-top10-injection)
+![last commit](https://img.shields.io/github/last-commit/owasp-top10-broken-access-control)
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-*These instructions are [available in english](https://github.com/breatheco-de/owasp-top10-injection/blob/main/README.md)*
+*These instructions are [available in english](https://github.com/breatheco-de/owasp-top10-broken-access-control/blob/main/README.md)*
 <!-- endhide -->
 
 ## 📝 Instructions
